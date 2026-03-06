@@ -33,6 +33,11 @@ const About = () => {
           >
             Contact Erica
           </Link>
+          <span>
+          Erica Fana<br />
+          Virtue Real Estate Group<br />
+          S. 0188295
+          </span>
         </p>
         <img
           src={AboutPhoto}
