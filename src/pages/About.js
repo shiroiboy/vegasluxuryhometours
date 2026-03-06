@@ -32,7 +32,9 @@ const About = () => {
             className='page-link cinzel-decorative-bold-18 text-dark-gold mt-32'
           >
             Contact Erica
-          </Link>
+          </Link><br />
+          <br />
+          <br />
           <span>
           Erica Fana<br />
           Virtue Real Estate Group<br />
